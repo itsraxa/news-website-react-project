@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh and Jason Hanna, CNN",
+            "title": "Jackson, Mississippi, residents told to shower with mouths closed as water treatment plant repairs continue on Day 4 of water shortage - CNN",
+            "description": "As Mississippi's capital city entered a fourth day on Thursday with little or no water flowing from faucets, authorities were scrambling to get a failing water treatment plant plagued by decades of deferred maintenance back online.",
+            "url": "https://www.cnn.com/2022/09/01/us/jackson-water-system-failing-thursday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220831233436-16-jackson-water-system-failure-0831-super-tease.jpg",
+            "publishedAt": "2022-09-02T11:40:00Z",
+            "content": "(CNN)As Mississippi's capital city entered a fourth day on Thursday with little or no water flowing from faucets, authorities were scrambling to get a failing water treatment plant plagued by decades… [+9077 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ignacio Grimaldi, Artemis Moshtaghian and Jessie Yeung, CNN",
+            "title": "Suspect arrested after failed assassination attempt on Argentine vice president - CNN",
+            "description": "A man has been arrested after attempting to shoot Cristina Fernández de Kirchner, Argentina's vice-president and former President, at point blank range outside her home in Buenos Aires on Thursday.",
+            "url": "https://www.cnn.com/2022/09/01/americas/argentina-cristina-fernndez-de-kirchner-gun-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220901193752-kirchner-argentina-vp-file-super-tease.jpg",
+            "publishedAt": "2022-09-02T11:34:00Z",
+            "content": "(CNN)A man has been arrested after attempting to shoot Cristina Fernández de Kirchner, Argentina's vice-president and former President, at point blank range outside her home in Buenos Aires on Thursd… [+3747 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Mosque blast in Afghanistan kills prominent scholar, civilians - Al Jazeera English",
+            "description": "Pro-Taliban imam among the dozens dead and wounded in a suicide attack on the Guzargah Mosque in western Herat city.",
+            "url": "https://www.aljazeera.com/news/2022/9/2/explosion-at-afghanistan-mosque-kills-prominent-cleric-civilians",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/09/talib.jpg?resize=1200%2C675",
+            "publishedAt": "2022-09-02T11:10:49Z",
+            "content": "An explosion at a mosque in the city of Herat in western Afghanistan killed a high-profile pro-Taliban scholar as well as more than a dozen civilians.\r\nImages on social media on Friday showed what ap… [+2046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "Artemis 1 traffic jam: NASA moon launch may draw crowd of 400000 - Space.com",
+            "description": "There will be lots of folks on Florida's Space Coast for Labor Day weekend.",
+            "url": "https://www.space.com/artemis-1-moon-launch-huge-crowd",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cs7K6hoDfsuXi5iQNbbHrD-1200-80.jpeg",
+            "publishedAt": "2022-09-02T11:00:37Z",
+            "content": "A crowd the size of a major American city may turn out to watch NASA's Artemis 1 moon rocket lift off this weekend.\r\nArtemis 1\r\n was supposed to launch from Kennedy Space Center, in Florida's Brevard… [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Breaking down how USB4 goes where no USB standard has gone before - Ars Technica",
+            "description": "USB4 vs. Thunderbolt 4—and everything else to know about the newest USB standard.",
+            "url": "https://arstechnica.com/gadgets/2022/09/breaking-down-how-usb4-goes-where-no-usb-standard-has-gone-before/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/usb4-explainer-760x380.jpg",
+            "publishedAt": "2022-09-02T10:40:13Z",
+            "content": "51 with 38 posters participating\r\nUSB has come a long way since the 12Mbps days of the '90s. It has waved goodbye to USB-B and is inching away from USB-A in favor of the slim, reversible USB-C connec… [+994 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Michael Kunzelman",
+            "title": "Ex-NYPD officer sentenced to record 10 years for Jan. 6 riot - The Associated Press - en Español",
+            "description": "WASHINGTON (AP) — A retired New York Police Department officer was sentenced on Thursday to a record-setting 10 years in prison for attacking the U.S. Capitol  and using a metal flagpole to assault one of the police officers trying to hold off a mob of Donald…",
+            "url": "https://apnews.com/article/capitol-siege-prisons-new-york-donald-trump-presidential-elections-62ca153f4ecf3b7e2f3605c5b799582f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/4600b27830294bbea2f650a59e1f6a8d/3000.jpeg",
+            "publishedAt": "2022-09-02T10:09:59Z",
+            "content": "WASHINGTON (AP) A retired New York Police Department officer was sentenced on Thursday to a record-setting 10 years in prison for attacking the U.S. Capitol and using a metal flagpole to assault one … [+5470 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kevin McGuire",
+            "title": "Penn State football report card: Grading PSU's Week 1 win at Purdue - Nittany Lions Wire",
+            "description": "The grades are in! Grading Penn State’s Week 1 win at Purdue",
+            "url": "https://nittanylionswire.usatoday.com/2022/09/02/report-card-grading-penn-states-week-1-victory-at-purdue/",
+            "urlToImage": "https://nittanylionswire.usatoday.com/wp-content/uploads/sites/100/2022/09/USATSI_18965578_168393729_lowres.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2022-09-02T10:00:00Z",
+            "content": "To say Penn State’s season opener at Purdue was a roller coaster of emotion would be an understatement. A game with seven lead changes that is decided in the final minute of the game is a heck of a w… [+1446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Orlando Sentinel"
+            },
+            "author": "Richard Tribou",
+            "title": "Hurricane Danielle set to form as NHC tracks 2 other systems - Orlando Sentinel",
+            "description": "After forming into Tropical Storm Danielle Thursday, the system quickly strengthened overnight with the National Hurricane Center expecting it to become Hurricane Danielle this morning, the first hurricane of 2022.",
+            "url": "https://www.orlandosentinel.com/weather/hurricane/os-ne-hurricane-daniel-tropics-update-friday-20220902-m4rum2nrh5cz7naemktkktd4wi-story.html",
+            "urlToImage": "https://www.orlandosentinel.com/resizer/p3c4Vc8K0NBTp16mH7iMZ8anCOA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/NPNIZJYOJVHSRPTQEWBOJBNPEE.jpg",
+            "publishedAt": "2022-09-02T09:56:15Z",
+            "content": "After forming into Tropical Storm Danielle Thursday, the system quickly strengthened overnight with the National Hurricane Center expecting it to become Hurricane Danielle this morning, the first hur… [+3407 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/steve-dent",
+            "title": "Leica shows off its first 4K ultra-short-throw projector - Engadget",
+            "description": "Leica has just unveiled an ultra short throw (UST) projector called the Cine 1 that can beam an 80- or 100-inch image at just six inches from a wall.",
+            "url": "https://www.engadget.com/leica-just-launched-a-4-k-ultra-short-throw-projector-093541583.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/2a70be50-2a9c-11ed-9ef4-159f0553bbbe",
+            "publishedAt": "2022-09-02T09:37:27Z",
+            "content": "Leica has just unveiled its first ultra-short-throw (UST) projector called the Cine 1 that can beam an 80- or 100-inch image while parked as little as six inches from a wall. While it might seem a bi… [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "UN team at Ukraine nuclear plant ‘not going anywhere’; Russia issues warning to Moldova - CNBC",
+            "description": "The head of the U.N.'s nuclear watchdog is adamant that the team will stay at the Russian-occupied Zaporizhzhia nuclear plant.",
+            "url": "https://www.cnbc.com/2022/09/02/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113074-1662101277818-gettyimages-1242854417-AFP_32HF7H8.jpeg?v=1662101366&w=1920&h=1080",
+            "publishedAt": "2022-09-02T08:05:00Z",
+            "content": "Russia's energy influence over Europe appears to be coming to an end, energy and political analysts say, potentially alleviating the risk of further supply disruptions.\r\nEurope in recent months has e… [+890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Samuel Tolbert",
+            "title": "Microsoft confirms Xbox Game Pass Friends & Family Plan branding and price - Windows Central",
+            "description": "The service provides a discount on Xbox Game Pass Ultimate for up to five players.",
+            "url": "https://www.windowscentral.com/gaming/xbox/microsoft-confirms-xbox-game-pass-friends-and-family-plan-branding-and-price",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yjZiSu9Np65ksXmgE5XkSk-1200-80.jpg",
+            "publishedAt": "2022-09-02T07:31:04Z",
+            "content": "<ul><li>Microsoft has officially confirmed the Xbox Game Pass Friends &amp; Family plan branding with an official webpage.</li><li>Prior to this, the Xbox Game Pass Friends &amp; Family plan branding… [+2063 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephanie Nolasco",
+            "title": "Armie Hammer’s aunt Casey weighs in on 'cannibal' texts: ‘You don’t wake up one day and become a monster' - Fox News",
+            "description": "Armie Hammer, star of \"The Social Network\" and “Call Me By Your Name,\" has been accused of sexual assault. The actor, who has kept a low profile, denied the allegations.",
+            "url": "https://www.foxnews.com/entertainment/armie-hammer-aunt-casey-weighs-cannibal-texts",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Getty_Discovery_ArmieHammer_CaseyHammer.jpg",
+            "publishedAt": "2022-09-02T06:00:27Z",
+            "content": "WARNING: This story contains graphic content.\r\nArmie Hammers aunt is praising the women who are coming forward with shocking accusations about the fallen movie star.\r\nThe 36-year-old and his family a… [+9716 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Britain's new PM faces an 80s playlist: recession, unrest and runaway prices - Reuters UK",
+            "description": "Britain's prime minister in waiting Liz Truss models herself on Margaret Thatcher, judging by her photo ops echoing famous images of the country's first female premier.",
+            "url": "https://www.reuters.com/world/uk/britains-new-pm-faces-an-80s-playlist-recession-unrest-runaway-prices-2022-09-02/",
+            "urlToImage": "https://www.reuters.com/resizer/2pTvepFDulPmZ0-o_FnFNiq6A3c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ODBEND777ZPVBMJGLAX6PLRPCE.jpg",
+            "publishedAt": "2022-09-02T05:09:00Z",
+            "content": "RUNCORN, England, Sept 2 (Reuters) - Britain's prime minister in waiting Liz Truss models herself on Margaret Thatcher, judging by her photo ops echoing famous images of the country's first female pr… [+8519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Gridlock traffic on 5 Freeway through Castaic area continues - CBS Los Angeles",
+            "description": "Rick Montanez reports from Castaic where the Route Fire, which has burned more than 5,000 acres, closed both lanes of traffic down on the 5 Freeway Wednesday...",
+            "url": "https://www.youtube.com/watch?v=sFHvUPDxaaI",
+            "urlToImage": "https://i.ytimg.com/vi/sFHvUPDxaaI/hqdefault.jpg",
+            "publishedAt": "2022-09-02T04:25:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The Cavs started talking with the Jazz when the Knicks extended RJ Barrett - Woj - ESPN",
+            "description": "Adrian Wojnarowski joins Scott Van Pelt on SportsCenter to detail the Donovan Mitchell trade to the Cleveland Cavaliers.✔️Subscribe to ESPN+ http://espnplus....",
+            "url": "https://www.youtube.com/watch?v=McQTGMxljvE",
+            "urlToImage": "https://i.ytimg.com/vi/McQTGMxljvE/maxresdefault.jpg",
+            "publishedAt": "2022-09-02T04:20:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "WATCH: Pitt Six sends No. 17 Panthers over West Virginia in thrilling renewal of Backyard Brawl - CBS Sports",
+            "description": "Pittsburgh snapped a three-game losing streak in a series that dates back to the 1800s",
+            "url": "https://www.cbssports.com/college-football/news/watch-pitt-six-sends-no-17-panthers-over-west-virginia-in-thrilling-renewal-of-backyard-brawl/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/02/ca6e0c4c-248a-41bf-85cb-41288ec110b9/thumbnail/1200x675/ae55aefa00aa42e4cbed1b59e643586a/pitt-getty.jpg",
+            "publishedAt": "2022-09-02T03:45:31Z",
+            "content": "The 105th edition of Backyard Brawl lived up to all the hype its renewal brought following an 11-year hiatus with the game delivering an instant classic that saw No. 17 Pittsburgh win after scoring t… [+2175 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China's Chengdu Fears Shanghai Repeat as Cities Fall to Xi's Covid Zero - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=fe2472c9-2abe-11ed-9aff-747579717578&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOS0wMS9jaGVuZ2R1LWZlYXJzLXNoYW5naGFpLXJlcGVhdC1hcy1jaXRpZXMtZmFsbC10by14aS1zLWNvdmlkLXplcm8=",
+            "urlToImage": null,
+            "publishedAt": "2022-09-02T03:06:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Michael Nordine",
+            "title": "‘Rings of Power’ Recap: First Two Episodes Let ‘Lord of the Rings’ Fans Breathe a Sigh of Relief - Variety",
+            "description": "SPOILER ALERT: Do not read unless you have watched the first two episodes of “The Lord of the Rings: The Rings of Power,” now streaming on Amazon Prime Video. That sound you just heard is neither drums, drums in the deep nor the roar of a Balrog. It was actua…",
+            "url": "https://variety.com/2022/tv/news/rings-of-power-premiere-recap-episodes-one-two-galadriel-1235357785/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/09/RPAZ_S1_210712_GRAMAT_00023_R5.jpg?w=1000",
+            "publishedAt": "2022-09-02T03:00:00Z",
+            "content": "SPOILER ALERT: Do not read unless you have watched the first two episodes of “The Lord of the Rings: The Rings of Power,” now streaming on Amazon Prime Video.\r\nThat sound you just heard is neither dr… [+9046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Lizzy Davies",
+            "title": "Urgent aid appeal launched as satellite images show a third of Pakistan underwater - The Guardian",
+            "description": "Humanitarian workers expect conditions to worsen as monsoon rains continue and say millions face a terrible winter",
+            "url": "https://amp.theguardian.com/global-development/2022/sep/01/pakistan-floods-satellite-images-underwater-urgent-aid-appeal",
+            "urlToImage": "https://i.guim.co.uk/img/media/11fb77833c363c7f7294c09d1eb06830fd9d7eeb/0_0_3200_1920/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3803b37089e97daa61f361b8ccefaa87",
+            "publishedAt": "2022-09-02T02:27:00Z",
+            "content": "Aid workers have appealed for urgent donations to fight the absolutely devastating impact of flooding in Pakistan, as new satellite images appeared to confirm that a third of the country is now under… [+5084 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Webb telescope captures its first direct image of an exoplanet - CNN",
+            "description": "Astronomers have captured the first direct image of an exoplanet with the James Webb Space Telescope. The gas giant planet is located 385 light-years from Earth.",
+            "url": "https://www.cnn.com/2022/09/01/world/webb-telescope-exoplanet-image-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220901104638-webb-telescope-exoplanet-image.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-02T02:18:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAstronomers have captured the first direct image of an… [+2849 chars]"
+        }
+    ]
+}
